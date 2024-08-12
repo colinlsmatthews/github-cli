@@ -1,5 +1,6 @@
 import random
 import os
+import sys
 
 name = "Joe"
 question = "Will I win the lottery?"
