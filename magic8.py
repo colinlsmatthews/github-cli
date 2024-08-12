@@ -1,4 +1,5 @@
 import random
+import os
 
 name = "Joe"
 question = "Will I win the lottery?"
