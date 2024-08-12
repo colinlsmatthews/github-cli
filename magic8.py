@@ -1,7 +1,7 @@
 import random
 import os
 import sys
-
+import time
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
